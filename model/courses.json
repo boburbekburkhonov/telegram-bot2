@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Node.js",
+        "price": "1 000 000",
+        "desc": "Siz uchun"
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "price": "1 200 000",
+        "desc": "Yaxshi til"
+    },
+    {
+        "id": 3,
+        "name": "PHP",
+        "price": "900 000",
+        "desc": "Eski til"
+    },
+    {
+        "id": 4,
+        "name": "C++",
+        "price": "1 300 000",
+        "desc": "Yangi kurs"
+    },
+    {
+        "id": 5,
+        "name": "Java",
+        "price": "1 500 000",
+        "desc": "Maharishi"
+    }
+]
